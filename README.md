@@ -59,7 +59,7 @@ The final dashboard includes:
 - Filters for state, ZIP prefix, and cluster label
 
 View the interactive dashboard here:  
-[Tableau Public Dashboard Link](https://public.tableau.com/app/profile/YOUR-LINK-HERE)
+[Tableau Public Dashboard Link]([https://public.tableau.com/app/profile/YOUR-LINK-HERE](https://public.tableau.com/app/profile/adam.gilbert7036/viz/ClusteringU_S_CollegesbyCostAidGraduationOutcomes/ClusteringU_S_CollegesbyCostAidGraduationOutcomes))
 
 ## Repository Contents
 
